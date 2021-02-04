@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "quick-test-17"
+  description: "demo app"
+  annotations:
+    github.com/project-slug: leemills83/quick-test
+    backstage.io/techdocs-ref: url:https://github.com/leemills83/quick-test
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "leemills83"

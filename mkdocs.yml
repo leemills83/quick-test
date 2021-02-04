@@ -1,0 +1,8 @@
+site_name: "quick-test-17"
+site_description: "demo app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
